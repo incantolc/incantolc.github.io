@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+
+# pelican
+output/
+*.pid
+
+# Cache files
+cache/*
+
+# Virtualenv
+env/
+.env
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+
+# Cache files
+cache/*
+
+# alias
+src
